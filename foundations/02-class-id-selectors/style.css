@@ -1,0 +1,19 @@
+.pinkboi {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: #ffc0cb;
+}
+
+.pinkxtra {
+    font-size: 24px;
+}
+
+#blerg {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#flarg {
+    background-color: hwb(120 56% 7%);
+    font-weight: bold;
+    font-size: 24px;
+}
